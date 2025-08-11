@@ -15,16 +15,17 @@ const About = () => {
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Adrian
+          Aᴍᴀʀᴊᴇᴇᴛ
         </span>{" "}
         👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Croatia, specializing in technical
-          education through hands-on learning and building applications.
-        </p>
+          Final-year BCA (Data Science) student at Lovely Professional University.
+Skilled in software development, IoT, cloud, and virtualization.
+Proficient in C/C++, Python, and Data Structures & Algorithms.
+Capable of building innovative, efficient software solutions from business needs        </p>
       </div>
 
       <div className='py-10 flex flex-col'>
